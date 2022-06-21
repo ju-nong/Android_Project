@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_Final3</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_reservation">예약</string>
+    <string name="title_history">이용내역</string>
+    <string name="title_infomation">정보</string>
+</resources>
